@@ -7,11 +7,11 @@ Ablation_Studies_Base_Models/
 
 Contains ablation studies for core individual models, including:
 
-# CNN
+- CNN
 
-# TCN
+- TCN
 
-# LSTM
+- LSTM
 
 Inside this folder, each model has a dedicated code file containing:
 
@@ -30,15 +30,15 @@ Hybrid_and_Ensemble_Study/
 
 This directory contains combined model studies, including:
 
-# Hybrid CNN-LSTM Model
+- Hybrid CNN-LSTM Model
 
-# Hybrid TCN-LSTM Variants
+- Hybrid TCN-LSTM Variants
 
 Ensemble Experiments, including:
 
-# XGBoost + TCN-LSTM
+- XGBoost + TCN-LSTM
 
-# CatBoost + TCN-LSTM (Final recommended model)
+- CatBoost + TCN-LSTM (Final recommended model)
 
 Note: The TCN-LSTM hybrid experiments and ensemble model results are documented in the same file for easier comparative evaluation.
 
